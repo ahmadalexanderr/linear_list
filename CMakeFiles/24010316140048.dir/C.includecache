@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/macbookpro/Documents/OneDrive - Universitas Diponegoro/Alexander/INFORMATIKA_2016/Semester_9/struktur_data/praktikum/SLL/SLLNC/SLLNC.h
+stdio.h
+-
+stdlib.h
+-
+boolean.h
+/Users/macbookpro/Documents/OneDrive - Universitas Diponegoro/Alexander/INFORMATIKA_2016/Semester_9/struktur_data/praktikum/SLL/SLLNC/boolean.h
+curses.h
+/Users/macbookpro/Documents/OneDrive - Universitas Diponegoro/Alexander/INFORMATIKA_2016/Semester_9/struktur_data/praktikum/SLL/SLLNC/curses.h
+
+/Users/macbookpro/Documents/OneDrive - Universitas Diponegoro/Alexander/INFORMATIKA_2016/Semester_9/struktur_data/praktikum/SLL/SLLNC/boolean.h
+
+/Users/macbookpro/Documents/OneDrive - Universitas Diponegoro/Alexander/INFORMATIKA_2016/Semester_9/struktur_data/praktikum/SLL/SLLNC/mSLLNC.c
+SLLNC.h
+/Users/macbookpro/Documents/OneDrive - Universitas Diponegoro/Alexander/INFORMATIKA_2016/Semester_9/struktur_data/praktikum/SLL/SLLNC/SLLNC.h
+curses.h
+/Users/macbookpro/Documents/OneDrive - Universitas Diponegoro/Alexander/INFORMATIKA_2016/Semester_9/struktur_data/praktikum/SLL/SLLNC/curses.h
+
